@@ -1,2 +1,18 @@
-/* CSS Document */
-
+.wrapper .navigation table {
+	color: #4C4C4C;
+}
+.wrapper .navigation table tr th a {
+	color: #4C4C4C;
+}
+.wrapper .navigation h1 strong {
+	color: #6CF;
+}
+.wrapper .navigation h3 {
+	color: #6CF;
+}
+.wrapper .navigation h1 strong u em {
+	color: #000080;
+}
+.wrapper .navigation h3 {
+	color: #666;
+}
